@@ -1,5 +1,9 @@
 # Slink downloads
 
+Official website: https://slinkapp.web.app/
+
+Slink is a free, ad-free snake game inspired by Slither.io. Visit the website for current platform availability and details. Contact: iooSlink@Outlook.com.
+
 Download Slink v1.1.0 binaries from the [release page](https://github.com/iooSlink/slink/releases/tag/v1.1.0). This public repository contains download files and the published website, not the native source project.
 
 - Android: [Slink.apk](https://github.com/iooSlink/slink/releases/download/v1.1.0/Slink.apk)
